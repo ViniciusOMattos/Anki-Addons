@@ -1,0 +1,9 @@
+{
+    "package": "review_while_gaming",
+    "name": "Review While Gaming",
+    "version": "1.0.0",
+    "description": "Review Anki cards while gaming with floating window and global hotkeys",
+    "author": "User",
+    "min_api": "2.1.55",
+    "tags": ["review", "gaming", "hotkeys", "floating"]
+}

@@ -1,0 +1,28 @@
+{
+    "fields": [
+        "Front",
+        "Back"
+    ],
+    "show_on_question": true,
+    "show_on_answer": true,
+    "opacity": 1.0,
+    "background_color": "#1a1a1a",
+    "font_size": 16,
+    "font_family": "Sans",
+    "text_color": "#ffffff",
+    "window_width": 300,
+    "window_height": 200,
+    "window_x": 100,
+    "window_y": 100,
+    "always_on_top": true,
+    "frameless": true,
+    "toggle_shortcut": "Ctrl+Shift+M",
+    "hotkeys": {
+        "again": "f1",
+        "hard": "f2",
+        "good": "f3",
+        "easy": "f4",
+        "flip": "f5",
+        "audio": "f6"
+    }
+}
